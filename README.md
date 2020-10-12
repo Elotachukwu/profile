@@ -13,7 +13,7 @@ Chiagoziem Ede
 [See live demo here!](https://raw.githack.com/Elotachukwu/profile/main/index.html)
 
 ## Visual
-![](./access/images/screenshot.png)
+![This is a screenshot of the work.](./access/images/screenshot.png "This is a screenshot of the work.")
 
 ## Languages Used
 * HTML
