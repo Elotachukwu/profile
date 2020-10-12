@@ -1,5 +1,5 @@
 * {
-    margin: 1%;
+    margin: 0.5%;
     padding: 0;
     border: 0;
     text-decoration: none;
@@ -73,4 +73,131 @@
 
 .p2 {
     padding: 0 5% 10% 0;
+}
+
+.div3 {
+    display: flex;
+    padding-top: 2%;
+}
+
+.img2 {
+    box-shadow: 25px 28px 35px 14px rgba(0, 0, 0, 0.25);
+}
+
+.div4 {
+    display: flex;
+    padding-top: 2%;
+}
+
+.sub1div4 {
+    flex: 1;
+    box-shadow: 25px 28px 35px 14px rgba(0, 0, 0, 0.25);
+    padding: 3%;
+    margin: 2%;
+    border-radius: 10px;
+}
+
+.sub2div4 {
+    flex: 1;
+    box-shadow: 25px 28px 35px 14px rgba(0, 0, 0, 0.25);
+    padding: 3%;
+    margin: 2%;
+    border-radius: 10px;
+}
+
+.sub3div4 {
+    flex: 1;
+    box-shadow: 25px 28px 35px 14px rgba(0, 0, 0, 0.25);
+    padding: 3%;
+    margin: 2%;
+    border-radius: 10px;
+}
+
+.div5 {
+    box-shadow: 25px 28px 35px 14px rgba(0, 0, 0, 0.25);
+    border: 0 0 0 1 rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+    display: block;
+    margin: 0 30% 0 30%;
+    /* align-items: center;
+    justify-content: center; */
+    padding: 1%;
+}
+
+.input1,
+.input2,
+.input3 {
+    margin: 0 10% 5% 10%;
+    border-top: 0;
+    border-bottom: 1px solid black;
+    border-left: 0;
+    border-right: 0;
+    width: 80%;
+    align-self: center;
+}
+
+.p7 {
+    text-align: center;
+    margin: 5%;
+}
+
+.input3 {
+    margin: 2% 10% 2% 10%;
+    padding-bottom: 2%;
+}
+
+.a {
+    margin: 5% 10% 2% 35%;
+}
+
+.ul {
+    display: flex;
+    list-style-type: none;
+    align-items: flex-start;
+    justify-content: space-around;
+    padding-top: 3%;
+    margin: auto 15% auto 15%;
+    flex-wrap: nowrap;
+}
+
+.div7 {
+    background-color: #4349D3;
+}
+
+.ul3 {
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+}
+
+.p8 {
+    font-size: 10px;
+    text-align: center;
+}
+
+.sub1div6 {
+    border-bottom: 3px solid white;
+    padding: 0;
+    color: white;
+    margin: 0;
+}
+
+.li8 {
+    color: white;
+    padding-left: 5%;
+}
+ 
+.sub2div6 {
+    justify-content: center;
+}
+
+.p15 {
+    text-align:  center;
+    color: white;
+    padding: 1%;
+}
+
+.h1 {
+    text-align: center;
+    padding: 5% 0 3% 0;
 }
