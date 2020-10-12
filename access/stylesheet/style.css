@@ -1,9 +1,13 @@
 * {
-    margin: 0.5%;
+    margin: 0 auto;
     padding: 0;
     border: 0;
     text-decoration: none;
     color:black;
+}
+
+body {
+    margin: 1% 10% 1% 10%;
 }
 
 .div1 {
@@ -54,8 +58,7 @@
 }
 
 .img1 {
-    height: 100%;
-    width: 100%;
+    height: 450px;
     box-shadow: 25px 28px 35px 14px rgba(0, 0, 0, 0.25);
 }
 
@@ -78,10 +81,12 @@
 .div3 {
     display: flex;
     padding-top: 2%;
+    align-items: flex-start;
 }
 
 .img2 {
     box-shadow: 25px 28px 35px 14px rgba(0, 0, 0, 0.25);
+    height: 300px;
 }
 
 .div4 {
@@ -119,8 +124,6 @@
     border-radius: 10px;
     display: block;
     margin: 0 30% 0 30%;
-    /* align-items: center;
-    justify-content: center; */
     padding: 1%;
 }
 
@@ -162,6 +165,7 @@
 
 .div7 {
     background-color: #4349D3;
+    margin: 2%;
 }
 
 .ul3 {
