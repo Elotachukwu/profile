@@ -10,10 +10,10 @@ Chiagoziem Ede
 * [Twitter](https://twitter.com/elotachukwu)
 
 ## Live Demo
-[See live demo here!](https://raw.githack.com/Elotachukwu/profile/main/index.html)
+[See live demo here!](https://sleepy-poitras-7593cb.netlify.app/)
 
 ## Visual
-![This is a screenshot of the work.](./access/images/screenshot.png "This is a screenshot of the work.")
+![This is a screenshot of the work.](./access/images/portfolio-preview.png "This is a screenshot of the work.")
 
 ## Languages Used
 * HTML
