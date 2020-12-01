@@ -10,7 +10,7 @@ Chiagoziem Ede
 * [Twitter](https://twitter.com/elotachukwu)
 
 ## Live Demo
-[See live demo here!](https://sleepy-poitras-7593cb.netlify.app/)
+[See live demo here!](https://chiagoziem-profile.netlify.app/)
 
 ## Visual
 ![This is a screenshot of the work.](./access/images/portfolio-preview.png "This is a screenshot of the work.")
